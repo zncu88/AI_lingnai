@@ -96,4 +96,4 @@ chatchat start -a
 
 
 
-本项目使用langchain-chatchat、qwen1.5-chat、GPT-SOVITS等开源项目，只用作学习用途。
+本项目使用langchain-chatchat、qwen1.5-chat、GPT-SOVITS等开源项目，只进行了初步调用尝试，只用作学习用途。
