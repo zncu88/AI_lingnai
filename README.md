@@ -62,7 +62,13 @@ chatchat start -a
 输出选择input，
 输入选择b1口。
 
-双击运行GPT-SoVITS-beta0706中的go-api.bat文件
+下载和配置好GPT-SOVITS后，将该GPT-SoVITS-beta0706文件夹中的inference_webui.py放入对应的\GPT_SoVITS文件夹中替换
+
+
+其他文件直接替换
+
+
+后双击运行GPT-SoVITS-beta0706中的go-api.bat文件
 
 #### 3.虚拟形象采用vtuberstudio：
 
